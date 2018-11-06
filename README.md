@@ -1,5 +1,5 @@
 # e-lite progressive webapp(rajasthan it day hackathon)
-e-lite serves basic emitra services with low latency internet connections.
+e-lite serves basic emitra services with high latency internet connections.
 
 pros
 --------------------------------------------------------------------------------------------
